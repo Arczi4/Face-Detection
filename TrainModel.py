@@ -2,7 +2,6 @@ import cv2
 import numpy as np
 from os import listdir
 from os.path import isfile, join
-import pickle
 
 Path = './faces/'
 Files = [f for f in listdir(Path) if isfile(join(Path, f))]
