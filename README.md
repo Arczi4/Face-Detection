@@ -1,4 +1,4 @@
-# Face-Recognition
+# Face-Detection
 1. Clone repo and create "faces"  directory inside
 2. Run GetFaces.py to collect data for model
 3. Run TrainModel.py it should save finalized_mode.sav file
